@@ -1,0 +1,5 @@
+cd :- Change Directory {Changes the directory to the directory specified in path}
+pwd :- Present Working Directory {Shows the present directory}
+ls :- list the files present in the directory
+cat :- print the contents of file
+vim :- open vim editor
